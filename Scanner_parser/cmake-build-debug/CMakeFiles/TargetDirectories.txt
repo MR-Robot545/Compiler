@@ -1,0 +1,3 @@
+C:/Users/asdan/Desktop/Scanner&parser/cmake-build-debug/CMakeFiles/Scanner_parser.dir
+C:/Users/asdan/Desktop/Scanner&parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asdan/Desktop/Scanner&parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
